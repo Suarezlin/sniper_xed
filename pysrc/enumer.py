@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 # -*- python -*-
 # Mark Charney <mark.charney@intel.com>
 #BEGIN_LEGAL

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 #  Read the encode format files
 # -*- python -*-
 #BEGIN_LEGAL
